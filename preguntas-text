@@ -1,2 +1,2 @@
-No se poner dos flechas en la etiqueta <select>: 
-El aviso de campo obligatorio tiene que ir obligatoriamente arriva??:
+No se poner dos flechas en la etiqueta <select>: Buscar tipo de input para seleccionar.
+El aviso de campo obligatorio tiene que ir obligatoriamente arriba??: Para que aparezca arriba hay que utilizar JavaScript para que valide todos los campos. Voy a ver un vídeo para intentar hacerlo con Bootstrap en el repo 2.0 de este.
